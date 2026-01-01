@@ -1,15 +1,29 @@
-# NumPy
+# Pandas
 
-This folder contains my notes and exercises for learning NumPy.
+This folder contains my Pandas learning notebooks, organized by course units.
 
-## Topics covered
-- What is NumPy and why it is fast
-- Creating arrays
-- Array shape and dtype
-- Indexing and slicing
-- Basic operations
-- Broadcasting
-- Useful functions (mean, sum, max, min)
+## Quick Navigation
 
-## Status
-Completed
+- **Unit 01 – Getting Started**
+  - Series & DataFrame basics
+  - Creating DataFrames
+
+- **Unit 02 – Data Types & Filtering**
+  - Data types
+  - Boolean indexing
+  - Conditional filtering
+
+- **Unit 03 – Combining Data**
+  - concat
+  - merge
+  - join
+
+- **Unit 04 – Groupwise Analysis**
+  - groupby
+  - aggregation
+  - apply
+
+- **Unit 05 – Working with Dates**
+  - datetime
+  - time series
+  - date operations
